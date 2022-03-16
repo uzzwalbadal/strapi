@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "projectusers",
+  "info": {
+    "singularName": "projectuser",
+    "pluralName": "projectusers",
+    "displayName": "projectuser"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Userdeviceid": {
+      "type": "string"
+    },
+    "Datetime": {
+      "type": "datetime"
+    },
+    "Location": {
+      "type": "string"
+    }
+  }
+}
